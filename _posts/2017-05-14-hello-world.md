@@ -9,5 +9,6 @@ In times of short attention span and easily accessible online media, reading is 
 
 ## Why I need to read more
 {% include image name="2017-05-14_reader.gif" %}
+![My image]({{ site.url }}/images/2017-05-14_reader.gif)
 
 ## The bliss of reading
