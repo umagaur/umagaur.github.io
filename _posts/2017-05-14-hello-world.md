@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Hello world
-description: Hellou, hellou
+title: On reading
+description: My thoughts on the need to read more
 ---
 
-I'm still trying to figure out how it works.
+## Reading is a chore
+
+
+## Why I need to read more
+
+
+## The bliss of reading
